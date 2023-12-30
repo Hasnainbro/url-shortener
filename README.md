@@ -12,9 +12,13 @@ It allows users to input a long URL and receive a shortened version, which can b
 - Redirection: Redirect from a short URL to the original URL.
 - User-Friendly Interface: Simple and intuitive web interface for URL shortening.
 
-# Getting Started
-## Prerequisites
+## Getting Started
+### Prerequisites
 1. Python 3.x
 2. Flask (install via pip install Flask)
 3. ShortUUID (install via pip install shortuuid).
 
+## Running the Application
+Clone the repository:
+.. code:: bash
+    git clone https://github.com/Hasnainbro/url-shortener.git

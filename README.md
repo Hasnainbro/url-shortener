@@ -20,5 +20,4 @@ It allows users to input a long URL and receive a shortened version, which can b
 
 ## Running the Application
 Clone the repository:
-.. code:: bash
-    git clone https://github.com/Hasnainbro/url-shortener.git
+    `git clone https://github.com/Hasnainbro/url-shortener.git`
